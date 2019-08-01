@@ -5,5 +5,5 @@ gem insatller:  - faker
 
 diagramme UML :
 
-
+ ![Alt text](img/UML-freeDoc.png) 
 
